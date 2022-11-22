@@ -1,3 +1,4 @@
+# To run with Python >= 3.9
 import math
 
 ## ========= EX 1 =========
